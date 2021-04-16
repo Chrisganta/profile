@@ -1,6 +1,6 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'Welcome to Chris Porfolio',
+  title: 'Welcome to Chris Portfolio',
   tagline: 'All about my work',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
