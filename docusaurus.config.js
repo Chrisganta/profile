@@ -11,7 +11,7 @@ module.exports = {
   projectName: 'profile', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'Chris Profile',
+      title: 'Chris TW Profile',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
