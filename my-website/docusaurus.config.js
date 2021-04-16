@@ -1,14 +1,14 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'Welcome to Chris Portfolio',
+  title: 'Welcome to Chris Porfolio',
   tagline: 'All about my work',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://github.com/Chrisganta',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Chrisganta', // Usually your GitHub org/user name.
+  projectName: 'profile', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Chris Profile',
